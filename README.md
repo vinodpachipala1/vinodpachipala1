@@ -4,7 +4,7 @@
 🎓 I'm currently pursuing an **Integrated M.Tech in CSE** at **VIT, Amaravati**  
 💻 Passionate about **Full Stack Development** using the **PERN stack**  
 🧠 Constantly exploring **scalable real-time systems** and collaborative web apps  
-🛠 Built multiple production-level tools in **hackathons & personal projects**  
+🛠 Built multiple production-level tools in **personal projects**  
 ✨ Love adding features like **dark mode, real-time updates, and AI summarization**
 
 ---
