@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vinod Pachipala</h1>
-<h3 align="center">Full Stack Developer | PERN Stack Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  <a href="https://github.com/vinodpachipala1"><img src="https://img.shields.io/github/followers/vinodpachipala1?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/vinod-pachipala-891375372/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vinodpachipala93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
 ## 🚀 About Me
 
 🎓 I'm currently pursuing an **Integrated M.Tech in CSE** at **VIT, Amaravati**  
@@ -23,11 +13,11 @@
 
 | Category       | Tools & Technologies                                                                 |
 |----------------|----------------------------------------------------------------------------------------|
-| 👨‍💻 Languages   | JavaScript, Java, HTML5, CSS3                                                          |
-| 🧩 Frontend     | React.js, Tailwind CSS                                                                 |
-| 🖥 Backend      | Node.js, Express.js                                                                    |
-| 🗃️ Databases    | PostgreSQL, MySQL                                                                      |
-| 🛠 Tools        | Git, GitHub, VS Code                                                                   |
+| 👨‍💻 Languages   | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)                                  |
+| 🧩 Frontend     | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)                                                                 |
+| 🖥 Backend      | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)                                                                     |
+| 🗃️ Databases    | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                                                      |
+| 🛠 Tools        | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)                                                                    |
 
 ---
 
