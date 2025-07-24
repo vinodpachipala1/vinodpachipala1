@@ -1,62 +1,82 @@
-# 👋 Hi there, I'm Vinod Pachipala!
+<h1 align="center">Hi 👋, I'm Vinod Pachipala</h1>
+<h3 align="center">Full Stack Developer | PERN Stack Enthusiast | Problem Solver</h3>
 
-🎓 I'm currently pursuing an Integrated M.Tech in Computer Science and Engineering at Vellore Institute of Technology, Amaravati. Passionate about building real-time, scalable web applications using the **PERN stack** (PostgreSQL, Express.js, React, Node.js), I strive to solve real-world problems with clean and efficient code.
+<p align="center">
+  <a href="https://github.com/vinodpachipala1"><img src="https://img.shields.io/github/followers/vinodpachipala1?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/vinod-pachipala-891375372/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vinodpachipala93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently building real-time and collaborative web apps.
-- 🌱 I’m focused on mastering **PERN stack** and backend optimization.
-- 🛠️ I love converting ideas into scalable products using modern technologies.
-- 💬 Ask me about: **React**, **Node.js**, **PostgreSQL**, and full-stack development.
-- ⚡ Fun fact: I enjoy implementing features like dark mode, real-time updates, and group collaboration tools!
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/vinod-pachipala-891375372/) |  
-  📧 vinodpachipala93@gmail.com
+🎓 I'm currently pursuing an **Integrated M.Tech in CSE** at **VIT, Amaravati**  
+💻 Passionate about **Full Stack Development** using the **PERN stack**  
+🧠 Constantly exploring **scalable real-time systems** and collaborative web apps  
+🛠 Built multiple production-level tools in **hackathons & personal projects**  
+✨ Love adding features like **dark mode, real-time updates, and AI summarization**
 
 ---
 
-## 🧰 My Tech Stack
+## 🔧 Tech Stack
 
-| Category         | Technologies                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| Languages        | JavaScript, Java, HTML5, CSS3                                                |
-| Frontend         | React.js, Tailwind CSS                                                       |
-| Backend          | Node.js, Express.js                                                          |
-| Databases        | PostgreSQL, MySQL                                                            |
-| Tools & Others   | Git & GitHub, VS Code                                                        |
+| Category       | Tools & Technologies                                                                 |
+|----------------|----------------------------------------------------------------------------------------|
+| 👨‍💻 Languages   | JavaScript, Java, HTML5, CSS3                                                          |
+| 🧩 Frontend     | React.js, Tailwind CSS                                                                 |
+| 🖥 Backend      | Node.js, Express.js                                                                    |
+| 🗃️ Databases    | PostgreSQL, MySQL                                                                      |
+| 🛠 Tools        | Git, GitHub, VS Code                                                                   |
 
 ---
 
-## 🛠️ Projects
+## 💼 Featured Projects
 
-### 🌐 [Travel Booking System](https://travel-booking-frontend.vercel.app/home)
-A full-stack travel platform where users can search, book, and manage tours and stays. Includes real-time weather updates, responsive UI, and a review system.
+### ✈️ [Travel Booking System](https://travel-booking-frontend.vercel.app/home)
+> **Tech**: React, Node.js, PostgreSQL, Tailwind CSS  
+> 🔹 Unified flight, hotel, and tour booking  
+> 🔹 Real-time weather updates & forecasts  
+> 🔹 User reviews + responsive UI
 
-### 📰 [News Aggregator App](https://news-app-six-amber.vercel.app/)
-A sleek news app with AI-powered summarization, category filters, bookmarking, and dark mode for enhanced reading.
+---
 
-### 💸 [Real-Time Budget Splitter](https://expense-splitter-xi-two.vercel.app/)
-A collaborative platform for managing shared expenses with group creation, real-time balances, and settlement features.
+### 📰 [AI News Aggregator](https://news-app-six-amber.vercel.app/)
+> **Tech**: Node.js, Firebase, Tailwind CSS  
+> 🔹 Summarized news using **NLP**  
+> 🔹 Supports dark mode & bookmarking  
+> 🔹 Fast and clean UI
+
+---
+
+### 💰 [Real-Time Budget Splitter](https://expense-splitter-xi-two.vercel.app/)
+> **Tech**: React, Node.js, PostgreSQL  
+> 🔹 Collaborative budget management  
+> 🔹 Group invites, dynamic expense tracking  
+> 🔹 Settlement feature with history & archive
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 **Complete Web Development Bootcamp - Udemy**  
-  [View Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-bfbcbb13-e613-4b3e-ba3d-378b0b811eef.jpg)
+🎓 [**Complete Web Development Bootcamp – Udemy**](https://udemy-certificate.s3.amazonaws.com/image/UC-bfbcbb13-e613-4b3e-ba3d-378b0b811eef.jpg)  
+🗓️ Date: Oct 2024
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vinod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodpachipala1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodpachipala1&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinodpachipala1&show_icons=true&theme=react" alt="Vinod's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodpachipala1&layout=compact&theme=react" alt="Top Languages" width="49%"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinodpachipala1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinod-pachipala-891375372/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinod-pachipala-891375372/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/vinodpachipala1"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:vinodpachipala93@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
