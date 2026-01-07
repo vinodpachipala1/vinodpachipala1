@@ -23,19 +23,31 @@
 
 ## 💼 Featured Projects
 
-### ✈️ [Travel Booking System](https://travel-booking-frontend.vercel.app/home)
-> **Tech**: React, Node.js, PostgreSQL, Tailwind CSS  
-> 🔹 Unified flight, hotel, and tour booking  
-> 🔹 Real-time weather updates & forecasts  
-> 🔹 User reviews + responsive UI
+### 💼 Job Board System
+> **Tech**: React, Node.js, Express.js, PostgreSQL, Tailwind CSS  
+> 🔹 Role-based dashboards for candidates and employers  
+> 🔹 Job application workflow with real-time status tracking  
+> 🔹 Automated email notifications on application updates  
+> 🔹 Secure OTP-based authentication & responsive UI
 
 ---
 
-### 📰 [AI News Aggregator](https://news-app-six-amber.vercel.app/)
-> **Tech**: Node.js, Firebase, Tailwind CSS  
-> 🔹 Summarized news using **NLP**  
-> 🔹 Supports dark mode & bookmarking  
-> 🔹 Fast and clean UI
+### 🧠 QuizMaster – Online Quiz Portal
+> **Tech**: React, Node.js, Express.js, PostgreSQL, Tailwind CSS  
+> 🔹 Create, share, and attempt quizzes with authentication  
+> 🔹 Stores quiz history, scores, and performance analytics  
+> 🔹 Personalized dashboard with detailed statistics  
+> 🔹 Interactive UI with timers, navigation, and instant feedback
+
+---
+
+### 🛒 PrimeCart – E-Commerce Platform
+> **Tech**: React, Node.js, Express.js, PostgreSQL, Tailwind CSS  
+> 🔹 Role-based access for sellers and customers  
+> 🔹 Product listing and inventory management  
+> 🔹 End-to-end shopping flow: browse → cart → checkout  
+> 🔹 Fully responsive, mobile-first UI
+
 
 ---
 
