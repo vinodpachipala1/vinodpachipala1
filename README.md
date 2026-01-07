@@ -54,13 +54,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinodpachipala1&show_icons=true&theme=react" alt="Vinod's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodpachipala1&layout=compact&theme=react" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vinodpachipala1&show_icons=true&theme=react" width="49%"/>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vinodpachipala1&layout=compact&theme=react" width="49%"/>
 </p>
-
 ---
 
 ## 🤝 Let's Connect!
